@@ -1,0 +1,63 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-shadow: border-box;
+	font-family: 'Roboto', sans-serif;
+	text-decoration: none;
+	list-style: none;
+}
+.about{
+	background: blue;
+	opacity: 1;
+	width: 100%;
+}
+.about h1{
+	font-family: 'Roboto', sans-serif;
+	text-align: center;
+	padding: 20px;
+	color: #fff;
+}
+.logo{
+	width: 40px;
+}
+.site-footer{
+	background-color: lightgrey;
+}
+.mb-0,
+.fb-ic,
+.tw-ic,
+.ins-ic{
+	color: #fff;
+}
+.fb-ic:hover,
+.tw-ic:hover,
+.ins-ic:hover{
+	color: #fff;
+	opacity: 0.8;
+	cursor: pointer;
+}
+.breadcrumb{
+	border: none;
+	opacity: 1;
+}
+.name{
+	text-decoration: none;
+	padding: 10px;
+	list-style: none;
+}
+.account{
+	float: right;
+	margin-top: -20px;
+	font-style: bold;
+}
+#banks{
+	align-items: center;
+}
+#give{
+	text-align: center;
+}
+iframe{
+	align-items: center;
+	width: 100%;
+	height: 650px;
+}
